@@ -4,6 +4,8 @@ import numpy as np
 # Load input video
 cap = cv2.VideoCapture('input_video.avi')
 
+
+#Get input video width and height
 width, height  = int(cap.get(3)), int(cap.get(4))
 
 #If you wannna save the output video
