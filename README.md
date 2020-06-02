@@ -10,3 +10,4 @@ Weights - https://drive.google.com/file/d/1-MKNQ2G-Whov_GMAVgqGrhEE6p0Yvkt-/view
 cfg - https://drive.google.com/file/d/1SdhYHX7FcTBe9clchpFXSTXSAQslHJal/view?usp=sharing 
 
 
+(https://github.com/ajai4v/Projects/blob/master/Image_screenshot_03.06.2020.png)
