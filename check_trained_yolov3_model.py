@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load input video
-cap = cv2.VideoCapture('input_video.avi')
+cap = cv2.VideoCapture('input_video.avi') #Enter Absolute path of input video file
 
 
 #Get input video width and height
