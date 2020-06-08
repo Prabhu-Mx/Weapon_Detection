@@ -2,13 +2,13 @@ import cv2
 import numpy as np
 
 # Load input video
-cap = cv2.VideoCapture('input_video.avi') #Enter Absolute path of input video file
+cap = cv2.VideoCapture('input_video.mp4') #Enter Absolute path of input video file
 
 
 #Get input video width and height
 width, height  = int(cap.get(3)), int(cap.get(4))
 
-#If you wannna save the output video
+#If you want ot save the result in a video file 
 
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
 output = cv2.VideoWriter('output_video.avi', fourcc, 20.0, (width, height))
@@ -34,7 +34,7 @@ while cap.isOpened():
         net.setInput(blob)
         outs = net.forward(output_layers)
 
-        # Showing informations on the screen
+        # Showing up informations on the screen
         class_ids = []
         confidences = []
         boxes = []
