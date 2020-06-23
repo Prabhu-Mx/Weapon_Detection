@@ -1,3 +1,4 @@
+#Importing Library 
 import cv2
 import numpy as np
 
@@ -14,7 +15,6 @@ fourcc = cv2.VideoWriter_fourcc(*'XVID')
 output = cv2.VideoWriter('output_video.avi', fourcc, 20.0, (width, height))
 
 # Load Yolo - give the correct path of yolo weights and cfg file
-
 net = cv2.dnn.readNet("YoloV3_weapon_detect_module/yolov3_training_last.weights", "yolov3_weapon.cfg")
 
 # Name custom object
@@ -79,7 +79,7 @@ while cap.isOpened():
     else:
         break
 
-
+        
 cap.release()
 output.release()
 cv2.destroyAllWindows()
