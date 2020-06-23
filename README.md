@@ -4,6 +4,8 @@
 
 This model is trained to detect weapons such as hand pistol, machine guns & rocket launchers in the real-time surveillance.
 
+# Train the model
+
 I found the below link is really useful and easy to train yolov3 model on google colab with free GPU.I have trained the model with 500 images and tested with 100 images. 
 https://medium.com/@quangnhatnguyenle/how-to-train-yolov3-on-google-colab-to-detect-custom-objects-e-g-gun-detection-d3a1ee43eda1
 
@@ -27,4 +29,5 @@ cfg - https://drive.google.com/file/d/1SdhYHX7FcTBe9clchpFXSTXSAQslHJal/view?usp
 #Image2-Result
 ![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image2-output.png)
 
-[I intend no copyright infringement. Please let me know if I have posted something of yours & you'd like it removed]
+```diff
+-[I intend no copyright infringement. Please let me know if I have posted something of yours & you'd like it removed]-
