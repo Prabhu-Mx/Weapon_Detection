@@ -15,9 +15,16 @@ weights - https://drive.google.com/file/d/1-MKNQ2G-Whov_GMAVgqGrhEE6p0Yvkt-/view
 
 cfg - https://drive.google.com/file/d/1SdhYHX7FcTBe9clchpFXSTXSAQslHJal/view?usp=sharing 
 
-#Image input
-
+#Image1-Test
 ![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image1.jpg)
 
+#Image1-Result
+![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image1-output.png)
+
+#Image2-Test
+![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image2.jpg)
+
+#Image2-Result
+![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image2-output.png)
 
 [I intend no copyright infringement. Please let me know if I have posted something of yours & you'd like it removed]
