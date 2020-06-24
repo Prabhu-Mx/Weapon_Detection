@@ -18,7 +18,7 @@ weights - https://drive.google.com/file/d/1-MKNQ2G-Whov_GMAVgqGrhEE6p0Yvkt-/view
 cfg - https://drive.google.com/file/d/1SdhYHX7FcTBe9clchpFXSTXSAQslHJal/view?usp=sharing 
 
 #Image1-Test
-![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image1.jpg)
+![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/1018.jpg)
 
 #Image1-Result
 ![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/image1-output.png)
