@@ -13,7 +13,7 @@ https://medium.com/@quangnhatnguyenle/how-to-train-yolov3-on-google-colab-to-det
 
 As of now this model accuracy is 75%-80%.Currently I'm planning to train the model with 5000+ images,to get more accurate result.The same will be uploaded here once its done..  
 
-weights and cfg files can be downloaded from below link.
+Pre trained model and cfg files can be downloaded from below link.
 
 weights - https://drive.google.com/file/d/1-MKNQ2G-Whov_GMAVgqGrhEE6p0Yvkt-/view?usp=drivesdk
 
