@@ -7,7 +7,7 @@ praser.add_argument("-i","--input_file", required=True, help="path to input vide
 praser.add_argument("-o","--output_file", required=True, help="path to output video")
 args = vars(praser.parse_args())
 
-def detect():
+def main():
     # Load input video
     cap = cv2.VideoCapture(args["input file"])
 
@@ -82,4 +82,4 @@ def detect():
     cv2.destroyAllWindows()
 
 if __name__ =='__main__':
-    detect()
+    main()
